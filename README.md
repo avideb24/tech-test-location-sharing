@@ -1,4 +1,4 @@
-# Tech Test Dashboard - API Integration & Real-Time Features
+# Tech Test - API Integration & Real-Time Features
 
 A Next.js application demonstrating real-time location sharing with SignalR and infinite scroll user feed functionality.
 
